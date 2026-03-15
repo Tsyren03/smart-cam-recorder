@@ -22,5 +22,4 @@ My simple video recorder using OpenCV. This program captures webcam footage and 
 
 ## 📸 Demo
 ![Execution Screenshot](./screenshot.png) 
-**Video:** 
-[Video Demo](./Video Demo.mov)
+
