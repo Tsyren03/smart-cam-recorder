@@ -21,5 +21,4 @@ My simple video recorder using OpenCV. This program captures webcam footage and 
 3. Use the keyboard controls (`Space`, `g`, `f`, `i`, `ESC`) to interact with the recorder.
 
 ## 📸 Demo
-![Execution Screenshot](./screenshot.jpg) 
-*(Note: Please replace this line with an actual image or video of your program running)*
+![Execution Screenshot](./screenshot.png) 
